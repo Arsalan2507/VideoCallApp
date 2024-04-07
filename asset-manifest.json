@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VideoCallApp/static/css/main.f855e6bc.css",
-    "main.js": "/VideoCallApp/static/js/main.f03e8945.js",
+    "main.js": "/VideoCallApp/static/js/main.33ae640c.js",
     "static/js/453.fbae99c3.chunk.js": "/VideoCallApp/static/js/453.fbae99c3.chunk.js",
     "index.html": "/VideoCallApp/index.html",
     "main.f855e6bc.css.map": "/VideoCallApp/static/css/main.f855e6bc.css.map",
-    "main.f03e8945.js.map": "/VideoCallApp/static/js/main.f03e8945.js.map",
+    "main.33ae640c.js.map": "/VideoCallApp/static/js/main.33ae640c.js.map",
     "453.fbae99c3.chunk.js.map": "/VideoCallApp/static/js/453.fbae99c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f03e8945.js"
+    "static/js/main.33ae640c.js"
   ]
 }
